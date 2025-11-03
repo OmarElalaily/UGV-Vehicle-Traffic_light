@@ -1,0 +1,8 @@
+# bosch_4class.yaml
+path: /home/omar.elalaily/vehicle_traffic_bosch/dataset
+train: images/train
+val: images/val
+test: images/test
+
+nc: 4
+names: [red, yellow, green, off]
